@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2893
+
+
+Filetype Completion
+===================
+`setfiletype` command doesn't provide completion. this plugin provides a way
+for you to set filetype with a command which supports completion. just type:
+
+    :sft
+
+or 
+
+    :setf
+
+`:sft` or `:setf` will simply expand to SetFiletype command.
+
